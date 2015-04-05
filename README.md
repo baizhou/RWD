@@ -34,7 +34,7 @@ Responsive Resources
 - [The Complete Guide to Designing for Email](http://webdesign.tutsplus.com/articles/the-complete-guide-to-designing-for-email--webdesign-12941) by [@Nicole Merlin](http://tutsplus.com/authors/nicole-merlin)
 - [Creating a Simple Responsive HTML Email](http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978) by [@Nicole Merlin](http://tutsplus.com/authors/nicole-merlin)
 - [Using Grunt to Make Your Email Design Workflow Fun Again](http://webdesign.tutsplus.com/tutorials/using-grunt-to-make-your-email-design-workflow-fun-again--cms-22223) by [@Lee Munroe](http://tutsplus.com/authors/lee-munroe)
-- [Making responsive HTML emails](http://www.benjystanton.co.uk/blog/making-responsive-html-emails/)
+- [Making responsive HTML emails](http://www.benjystanton.co.uk/blog/making-responsive-html-emails/) （认领by [子回](http://github.com/tjwudi)）
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) by [@Lee Munroe](http://twitter.com/leemunroe)
 
 

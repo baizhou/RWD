@@ -3,6 +3,7 @@ Responsive Resources
 
 ### 
 
+- [Visual Test-Driven Development For Responsive Interface Design](http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/) by [@Ivan Shubin](http://www.smashingmagazine.com/author/ivanishubin/)
 - [Measuring Your Site's Responsive Breakpoint Usage](http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/) by [@Philip Walton](http://philipwalton.com/)
 - [OOCSS/Atomic CSS are Responsive Web Design ‘anti-patterns’](http://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/) by [@Ben Frain](https://plus.google.com/107588612045728705538)
 - [The State of Responsive Web Design](http://webdesign.tutsplus.com/articles/the-state-of-responsive-web-design--cms-22878) by [@Kezz Bracey](http://tutsplus.com/authors/kezz-bracey)
@@ -24,6 +25,7 @@ Responsive Resources
 
 ### RWD EDM
 
+- [Email Lab: A Starter Kit for HTML Emails](http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) by [@NATHAN RAMBECK](http://seesparkbox.com/foundry/author/nathan_rambeck)
 - [Using Forms in Email: Method or Madness?](http://www.sitepoint.com/forms-in-email/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)
 - [5 Golden Rules For Mobile Email Design](http://www.sitepoint.com/golden-rules-mobile-email-design/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)
 - [Responsive Email Layouts for Gmail App](http://julie.io/writing/responsive-layout-email-ux-munich-newsletter/) by [@]Julie Ng(http://julie.io/who)

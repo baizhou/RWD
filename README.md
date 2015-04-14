@@ -1,7 +1,7 @@
 # RWD
 Responsive Resources
 
-### 
+### Basic
 
 - [Visual Test-Driven Development For Responsive Interface Design](http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/) by [@Ivan Shubin](http://www.smashingmagazine.com/author/ivanishubin/)
 - [Measuring Your Site's Responsive Breakpoint Usage](http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/) by [@Philip Walton](http://philipwalton.com/)

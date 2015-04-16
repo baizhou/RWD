@@ -25,6 +25,7 @@ Responsive Resources
 
 ### RWD EDM
 
+- [How to Code HTML Email Newsletters](http://www.sitepoint.com/how-to-code-html-email-newsletters/) by [@Tim Slavin](http://www.sitepoint.com/author/tim-slavin/)
 - [Email Lab: A Starter Kit for HTML Emails](http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) by [@NATHAN RAMBECK](http://seesparkbox.com/foundry/author/nathan_rambeck)
 - [Using Forms in Email: Method or Madness?](http://www.sitepoint.com/forms-in-email/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)
 - [5 Golden Rules For Mobile Email Design](http://www.sitepoint.com/golden-rules-mobile-email-design/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)

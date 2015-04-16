@@ -29,7 +29,7 @@ Responsive Resources
 - [Email Lab: A Starter Kit for HTML Emails](http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) by [@NATHAN RAMBECK](http://seesparkbox.com/foundry/author/nathan_rambeck)
 - [Using Forms in Email: Method or Madness?](http://www.sitepoint.com/forms-in-email/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)
 - [5 Golden Rules For Mobile Email Design](http://www.sitepoint.com/golden-rules-mobile-email-design/) by [@Massimo Cassandro](http://www.sitepoint.com/author/mcassandro/)
-- [Responsive Email Layouts for Gmail App](http://julie.io/writing/responsive-layout-email-ux-munich-newsletter/) by [@]Julie Ng(http://julie.io/who)
+- [Responsive Email Layouts for Gmail App](http://julie.io/writing/responsive-layout-email-ux-munich-newsletter/) by [@Julie Ng](http://julie.io/who)
 - [Things I've Learned About Sending Email, For Web Designers And Developers](http://www.leemunroe.com/sending-email-designers-developers/) by [@Lee Munroe](http://twitter.com/leemunroe)
 - [How to Create a Responsive Email Template](http://designmodo.com/create-responsive-email/) by [@Sam Norton](http://designmodo.com/author/samuelnorton/)
 - [A Bulletproof Guide to Using HTML5 and CSS3 in Email](https://litmus.com/blog/a-bulletproof-guide-to-using-html5-and-css3-in-email) by [@KEVIN MANDEVILLE](https://litmus.com/blog/author/kevin)

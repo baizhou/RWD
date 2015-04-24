@@ -3,6 +3,7 @@ Responsive Resources
 
 ### Basic
 
+- [3 RESPONSIVE DESIGN DISASTERS (AND HOW TO AVOID THEM)](http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/) by [@ EMMA GRANT](http://www.webdesignerdepot.com/author/Emma-Grant)
 - [Visual Test-Driven Development For Responsive Interface Design](http://www.smashingmagazine.com/2015/04/07/visual-test-driven-development-responsive-interface-design/) by [@Ivan Shubin](http://www.smashingmagazine.com/author/ivanishubin/)
 - [Measuring Your Site's Responsive Breakpoint Usage](http://philipwalton.com/articles/measuring-your-sites-responsive-breakpoint-usage/) by [@Philip Walton](http://philipwalton.com/)
 - [OOCSS/Atomic CSS are Responsive Web Design ‘anti-patterns’](http://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/) by [@Ben Frain](https://plus.google.com/107588612045728705538)

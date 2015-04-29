@@ -12,7 +12,7 @@ Responsive Resources
 - [Making Sites More Responsive, Responsibly](http://24ways.org/2014/making-sites-more-responsive-responsibly/) by [@Sally Jenkinson](http://24ways.org/2014/making-sites-more-responsive-responsibly/#author)
 - [How To Write Mobile-first CSS](http://www.zell-weekeat.com/how-to-write-mobile-first-css/)
 - [Five Ways to Animate Responsibly](http://24ways.org/2014/five-ways-to-animate-responsibly) by [@Rachel Nabors](http://24ways.org/2014/five-ways-to-animate-responsibly#author)
-- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/) by [@Sandijs Ruluks](http://froont.com/)
+- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/) by [@Sandijs Ruluks](http://froont.com/)[认领by彦子]
 - [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
 
 

@@ -27,6 +27,7 @@ Responsive Resources
 
 ### RWD EDM
 
+- [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) by [@ Nicholas Cerminara](https://scotch.io/author/nick)
 - [Email Framework](http://glennsmith.me/email/framework/)
 - [How to Code HTML Email Newsletters](http://www.sitepoint.com/how-to-code-html-email-newsletters/) by [@Tim Slavin](http://www.sitepoint.com/author/tim-slavin/)
 - [Email Lab: A Starter Kit for HTML Emails](http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails) by [@NATHAN RAMBECK](http://seesparkbox.com/foundry/author/nathan_rambeck)

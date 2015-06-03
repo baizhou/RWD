@@ -3,6 +3,7 @@ Responsive Resources
 
 ### Basic
 
+- [Benton Modern, A Case Study On Art-Directed Responsive Web Typography](http://www.smashingmagazine.com/2015/05/27/benton-modern-typography-case-study/) by [@Marko Dugonjić](http://www.smashingmagazine.com/author/marko-dugonjic/)
 - [Responsive Design Best Practices for Big Projects](https://medium.com/@elad/responsive-design-best-practices-for-big-projects-5a72e3ecdcd2) by [@Elad Shechter](https://medium.com/@elad) by [@EMMA GRANT](http://www.webdesignerdepot.com/author/Emma-Grant)
 - [3 RESPONSIVE DESIGN DISASTERS — AND HOW TO AVOID THEM](http://www.webdesignerdepot.com/2015/04/3-responsive-design-disasters-and-how-to-avoid-them/)
 - [Responsive Data Tables: A Comprehensive List of Solutions](http://www.sitepoint.com/responsive-data-tables-comprehensive-list-solutions/) by [@George Martsoukos](http://www.sitepoint.com/author/gmartsoukos/)

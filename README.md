@@ -30,6 +30,7 @@ Responsive Resources
 
 ### RWD EDM
 
+- [Creating a Future-Proof Responsive Email Without Media Queries](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919) by [@Nicole Merlin](http://tutsplus.com/authors/nicole-merlin)
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) by [@ Nicholas Cerminara](https://scotch.io/author/nick)
 - [Email Framework](http://glennsmith.me/email/framework/)
 - [How to Code HTML Email Newsletters](http://www.sitepoint.com/how-to-code-html-email-newsletters/) by [@Tim Slavin](http://www.sitepoint.com/author/tim-slavin/)

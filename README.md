@@ -21,9 +21,9 @@ Responsive Resources
 
 ### Images
 
-- [Improving Responsive Images with the Picture Element](http://www.sitepoint.com/improving-responsive-images-picture-element/) by [@Annarita Tranfici](http://www.sitepoint.com/author/atranfici/)(认领by[@白粥](https://github.com/baizhou))
+- [Improving Responsive Images with the Picture Element](http://www.sitepoint.com/improving-responsive-images-picture-element/) by [@Annarita Tranfici](http://www.sitepoint.com/author/atranfici/)
 - [Keeping srcset and sizes under control](https://mattwilcox.net/web-development/keeping-srcset-and-sizes-under-control)
-- [Responsive Hero Images](http://blog.cloudfour.com/responsive-hero-images/) by [@Jason Grigsby](http://blog.cloudfour.com/author/jason-grigsby/)
+- [Responsive Hero Images](http://blog.cloudfour.com/responsive-hero-images/) by [@Jason Grigsby](http://blog.cloudfour.com/author/jason-grigsby/)(认领by[@白粥](https://github.com/baizhou))
 - [Responsive Images in Practice](http://alistapart.com/article/responsive-images-in-practice) by [@ERIC PORTIS](http://alistapart.com/author/eportis)
 - [Responsive Images: The Ultimate Guide](http://davidwalsh.name/responsive-images) by [@Andi Dysart](http://andi.io/)
 
